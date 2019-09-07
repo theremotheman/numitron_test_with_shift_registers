@@ -1,4 +1,8 @@
 # numitron_test_with_shift_registers
+
+
+
+
 Testing application for diagnosing numitron iv-9 tubes. Uses 4 shift registers and Arduino Uno.
 
 According to documentation, the first iv-9 leg is common, second is indication dot. You need to connect common(first) to GND then every single leg to outputs of your shift register(one by one).
