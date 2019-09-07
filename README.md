@@ -1,4 +1,4 @@
-# numitron_test_with_shift_registers
+# Numitron iv-9 test using 4 shift registers and Arduino Uno
 
 
 ![](Photos/2019-09-07%2015.35.32.jpg)
@@ -15,7 +15,7 @@ Also, use something more capable than 595 shift registers - they might work but 
 
 Video of how it should work: https://www.youtube.com/watch?v=S2hUcF2jsSs
 
-A good read before recreating this project:
+# A good read before recreating this project:
 
 Decoupling caps: http://www.thebox.myzen.co.uk/Tutorial/De-coupling.html
 
