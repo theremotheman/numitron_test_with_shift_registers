@@ -1,7 +1,7 @@
 # numitron_test_with_shift_registers
 
 
-
+![](Photos/2019-09-07%2015.35.32.jpg)
 
 Testing application for diagnosing numitron iv-9 tubes. Uses 4 shift registers and Arduino Uno.
 
@@ -12,6 +12,8 @@ Use this tutorial for connecting shift registers to Arduino: https://www.arduino
 Use 0.1pf caps between VCC and GND as a decoupling cap - VERY IMPORTANT for debugging, strange things may happen if you ignore this step.
 
 Also, use something more capable than 595 shift registers - they might work but also might fail horribly killing your numitron or Arduino or PC.
+
+Video of how it should work: https://www.youtube.com/watch?v=S2hUcF2jsSs
 
 A good read before recreating this project:
 
